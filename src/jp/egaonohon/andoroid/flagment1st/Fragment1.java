@@ -1,4 +1,4 @@
-package and1107.andoroid.flagment1st;
+package jp.egaonohon.andoroid.flagment1st;
 
 import android.app.Fragment;
 import android.os.Bundle;
